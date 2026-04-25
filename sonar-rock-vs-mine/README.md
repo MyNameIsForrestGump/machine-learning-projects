@@ -9,7 +9,7 @@ The dataset contains sonar signals reflected from different surfaces. Each sampl
 ##  Model
 - Logistic Regression
 
-## ⚙️ Approach
+##  Approach
 - Data preprocessing and conversion to NumPy arrays  
 - Train-test split with stratification  
 - Model training using Logistic Regression  
